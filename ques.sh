@@ -1,0 +1,4 @@
+echo enter filname
+read file
+grep -v "Jamia" $file > random.txt
+mv random.txt $file 

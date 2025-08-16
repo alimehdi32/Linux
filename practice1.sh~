@@ -1,0 +1,5 @@
+echo enter a number
+read number
+
+c=`expr $number + 1`
+echo new number is $c
