@@ -1,0 +1,10 @@
+practice1.sh
+practice2.sh
+profile
+ques.sh
+random_jamia_data.txt
+rename.sh
+rename2.sh
+user.sh
+users.txt
+wc

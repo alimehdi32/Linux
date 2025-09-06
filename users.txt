@@ -1,0 +1,16 @@
+Practice
+a.cpp
+b.cpp
+dectobin.sh
+greet.sh
+leap.sh
+list1
+practice.sh
+practice1.sh~
+practice2.sh
+ques.sh
+random_jamia_data.txt
+rename.sh
+rename2.sh
+user.sh
+users.txt
