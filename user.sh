@@ -1,9 +1,10 @@
+#!/bin/bash
 echo Enter username
 read user
-who > list
-if grep \b$user\b list 
+loggedIn=$(who | cut -d  " " -f 1)
+if [ "$user" = "$loggedIn" ]
 then
-echo user is logged in  
+echo $user is logged in  
 else 
-echo user is not logged in
+echo $user is not logged in
 fi

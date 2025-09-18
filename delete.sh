@@ -1,5 +1,5 @@
 #!/bin/bash
-for a in *
+for a in "$@"
 do
    if [ ! -s "$a" ]
       then 
